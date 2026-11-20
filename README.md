@@ -106,6 +106,43 @@
 
 <br />
 
+<!-- VWEB:PUBLIC-REPOS:START -->
+## Public project directory
+
+**27 public project repositories.** Private repositories are intentionally excluded. This list will be categorized and refreshed by GitHub Actions every six hours.
+
+| Public repository | |
+|---|---|
+| [api-anything](https://github.com/vweb-dev/api-anything) | [Source](https://github.com/vweb-dev/api-anything) |
+| [blackboxai-1755427024873](https://github.com/vweb-dev/blackboxai-1755427024873) | [Source](https://github.com/vweb-dev/blackboxai-1755427024873) |
+| [booking-jules](https://github.com/vweb-dev/booking-jules) | [Source](https://github.com/vweb-dev/booking-jules) |
+| [canada-csr-calculator](https://github.com/vweb-dev/canada-csr-calculator) | [Source](https://github.com/vweb-dev/canada-csr-calculator) |
+| [CanPak-web-app](https://github.com/vweb-dev/CanPak-web-app) | [Source](https://github.com/vweb-dev/CanPak-web-app) |
+| [connect.vweb.dev](https://github.com/vweb-dev/connect.vweb.dev) | [Source](https://github.com/vweb-dev/connect.vweb.dev) |
+| [daraz-calculator](https://github.com/vweb-dev/daraz-calculator) | [Source](https://github.com/vweb-dev/daraz-calculator) |
+| [envato-elements-downloader](https://github.com/vweb-dev/envato-elements-downloader) | [Source](https://github.com/vweb-dev/envato-elements-downloader) |
+| [Filee](https://github.com/vweb-dev/Filee) | [Source](https://github.com/vweb-dev/Filee) |
+| [folting-filter-menu](https://github.com/vweb-dev/folting-filter-menu) | [Source](https://github.com/vweb-dev/folting-filter-menu) |
+| [Interface-Front](https://github.com/vweb-dev/Interface-Front) | [Source](https://github.com/vweb-dev/Interface-Front) |
+| [luxury-talent-booking-rce](https://github.com/vweb-dev/luxury-talent-booking-rce) | [Source](https://github.com/vweb-dev/luxury-talent-booking-rce) |
+| [Microsoft-Activation-Scripts](https://github.com/vweb-dev/Microsoft-Activation-Scripts) | [Source](https://github.com/vweb-dev/Microsoft-Activation-Scripts) |
+| [motion-design-skill](https://github.com/vweb-dev/motion-design-skill) | [Source](https://github.com/vweb-dev/motion-design-skill) |
+| [o2-clone](https://github.com/vweb-dev/o2-clone) | [Source](https://github.com/vweb-dev/o2-clone) |
+| [Open-Typer](https://github.com/vweb-dev/Open-Typer) | [Source](https://github.com/vweb-dev/Open-Typer) |
+| [OpenBoard](https://github.com/vweb-dev/OpenBoard) | [Source](https://github.com/vweb-dev/OpenBoard) |
+| [PCMEA-Connect](https://github.com/vweb-dev/PCMEA-Connect) | [Source](https://github.com/vweb-dev/PCMEA-Connect) |
+| [POD-WP](https://github.com/vweb-dev/POD-WP) | [Source](https://github.com/vweb-dev/POD-WP) |
+| [rdp-wrapper-library](https://github.com/vweb-dev/rdp-wrapper-library) | [Source](https://github.com/vweb-dev/rdp-wrapper-library) |
+| [rdpwrap](https://github.com/vweb-dev/rdpwrap) | [Source](https://github.com/vweb-dev/rdpwrap) |
+| [shopify-app](https://github.com/vweb-dev/shopify-app) | [Source](https://github.com/vweb-dev/shopify-app) |
+| [studyapp](https://github.com/vweb-dev/studyapp) | [Source](https://github.com/vweb-dev/studyapp) |
+| [swarm-cursors](https://github.com/vweb-dev/swarm-cursors) | [Source](https://github.com/vweb-dev/swarm-cursors) |
+| [taskreminder](https://github.com/vweb-dev/taskreminder) | [Source](https://github.com/vweb-dev/taskreminder) |
+| [vapsstore](https://github.com/vweb-dev/vapsstore) | [Source](https://github.com/vweb-dev/vapsstore) |
+| [yasser.ai-](https://github.com/vweb-dev/yasser.ai-) | [Source](https://github.com/vweb-dev/yasser.ai-) |
+
+<!-- VWEB:PUBLIC-REPOS:END -->
+
 <img src="assets/heading-connect.svg" width="100%" alt="Start a conversation" />
 <a href="https://vweb.dev"><img src="assets/contact.svg" width="100%" alt="Start a project with VWEB.DEV" /></a>
 
@@ -118,6 +155,8 @@
 <br />
 
 **[Full Studio Reference & Source Notes](docs/README.md)** · [Partners](docs/PARTNERS.md) · [Portfolio](docs/PORTFOLIO.md) · [Source Verification](docs/SOURCES.md)
+
+[README Automation Documentation](docs/README-AUTOMATION.md)
 
 <img src="assets/footer.svg" width="100%" alt="VWEB.DEV footer" />
 

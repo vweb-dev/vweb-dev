@@ -1,0 +1,29 @@
+name: Reusable VWEB.DEV README
+on:
+  workflow_call:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out project
+        uses: actions/checkout@v4
+      - name: Check out shared README tooling
+        uses: actions/checkout@v4
+        with:
+          repository: vweb-dev/vweb-dev
+          path: .vweb-readme-tools
+          persist-credentials: false
+      - name: Generate source-derived project snapshot
+        run: python3 .vweb-readme-tools/scripts/generate_project_readme.py
+      - name: Commit README and SVG (if changed)
+        run: |
+          git config user.name "VWEB.DEV README Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/vweb-readme-banner.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "docs: update source-derived README [skip ci]"
+            git push
+          fi
