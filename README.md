@@ -19,6 +19,8 @@
 <img src="assets/heading-about.svg" width="100%" alt="Who we are" />
 <img src="assets/about.svg" width="100%" alt="VWEB.DEV studio overview" />
 
+<img src="assets/studio-intelligence.svg" width="100%" alt="Company website snapshot: nine realms, 45 specialist modules, four portfolio disciplines, 42 listed clients" />
+
 **VWEB.DEV** is an independent digital product and creative studio founded by **Zeeshan Ali Raza** in 2014, based in Lahore, Pakistan. We work across strategy, design, engineering, integrations, automation, growth and support — from initial product concepts through practical implementation.
 
 > The goal is not to accumulate features. It's to build coherent, maintainable products that solve a real problem.
@@ -41,7 +43,18 @@
 
 *Technologies and tooling vary by engagement. These are representative capabilities, not a claim that every project uses every tool.*
 
+**Explore the full [45-module service catalogue](docs/SERVICES.md), [technology architecture](docs/TECHNOLOGY.md) and [studio engagement model](docs/STUDIO.md).**
+
 <br />
+
+<br />
+
+<img src="assets/heading-portfolio.svg" width="100%" alt="Public work and portfolio" />
+<img src="assets/portfolio-showcase.svg" width="100%" alt="Eight selected VWEB.DEV website portfolio records" />
+
+<div align="center"><a href="https://vweb.dev/portfolio"><b>EXPLORE WEBSITE PORTFOLIO ↗</b></a> &nbsp;·&nbsp; <a href="docs/PORTFOLIO.md"><b>VIEW SELECTED WORK & CLIENT DIRECTORY</b></a></div>
+
+<sub>Portfolio figures and client names above reflect the business website's own catalogue and are not independent audits.</sub>
 
 <br />
 
@@ -55,6 +68,16 @@
 </div>
 
 <sub>**Partnership transparency:** VWEB.DEV identifies itself as an authorized ASTER partner in Pakistan. Other names in this section represent platforms in the business and technology ecosystem; their inclusion alone does not indicate certified or official partner status.</sub>
+
+
+
+<img src="assets/heading-aster.svg" width="100%" alt="ASTER Multiseat technical focus" />
+<img src="assets/aster-intelligence.svg" width="100%" alt="ASTER manufacturer product snapshot: up to twelve workplaces, fourteen-day Windows trial and Windows release 2.70.6.1" />
+
+<div align="center">[**ASTER Pakistan**](https://vweb.dev/aster-pakistan) &nbsp;·&nbsp; [**Technical & Licensing Guide**](docs/ASTER.md) &nbsp;·&nbsp; [**Manufacturer Downloads**](https://ibiksoft.com/download-aster-multiseat-software/)</div>
+
+<sub>Product version is sourced from IBIK's release page, not the older version references currently present on some Pakistan marketing sections. Compatibility and licensing must be reviewed per deployment.</sub>
+
 
 <img src="assets/heading-projects.svg" width="100%" alt="Selected public repositories" />
 
@@ -93,6 +116,8 @@
 </div>
 
 <br />
+
+**[Full Studio Reference & Source Notes](docs/README.md)** · [Partners](docs/PARTNERS.md) · [Portfolio](docs/PORTFOLIO.md) · [Source Verification](docs/SOURCES.md)
 
 <img src="assets/footer.svg" width="100%" alt="VWEB.DEV footer" />
 
