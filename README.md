@@ -43,6 +43,19 @@
 
 <br />
 
+<br />
+
+<img src="assets/heading-partners.svg" width="100%" alt="Partners and Platforms" />
+<img src="assets/partners.svg" width="100%" alt="ASTER authorized partner, Hostinger, Kommo CRM, Shopify and Wix ecosystem" />
+
+<div align="center">
+
+[**ASTER Pakistan**](https://aster.vweb.dev/en) &nbsp;•&nbsp; [**Hostinger**](https://www.hostinger.com/) &nbsp;•&nbsp; [**Kommo CRM**](https://www.kommo.com/) &nbsp;•&nbsp; [**Shopify**](https://www.shopify.com/) &nbsp;•&nbsp; [**Wix**](https://www.wix.com/)
+
+</div>
+
+<sub>**Partnership transparency:** VWEB.DEV identifies itself as an authorized ASTER partner in Pakistan. Other names in this section represent platforms in the business and technology ecosystem; their inclusion alone does not indicate certified or official partner status.</sub>
+
 <img src="assets/heading-projects.svg" width="100%" alt="Selected public repositories" />
 
 <div align="center">
