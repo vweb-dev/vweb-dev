@@ -30,6 +30,12 @@
 
 <br />
 
+<img src="assets/motion-flow.svg" width="100%" alt="Motion design graphic: Discover, Design, Engineer and Evolve delivery process" />
+
+<p align="center"><sub>Discover → Design → Engineer → Evolve · A connected delivery system</sub></p>
+
+<br />
+
 <img src="assets/heading-stack.svg" width="100%" alt="Technical direction" />
 <img src="assets/stack.svg" width="100%" alt="Applications, frontend, systems, creative and automation stack" />
 
