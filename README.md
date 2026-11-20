@@ -109,38 +109,56 @@
 <!-- VWEB:PUBLIC-REPOS:START -->
 ## Public project directory
 
-**27 public project repositories.** Private repositories are intentionally excluded. This list will be categorized and refreshed by GitHub Actions every six hours.
+**27 public project repositories**, automatically synced from GitHub. Private work remains private.
 
-| Public repository | |
+### PHP / Laravel
+
+| Repository | GitHub language |
 |---|---|
-| [api-anything](https://github.com/vweb-dev/api-anything) | [Source](https://github.com/vweb-dev/api-anything) |
-| [blackboxai-1755427024873](https://github.com/vweb-dev/blackboxai-1755427024873) | [Source](https://github.com/vweb-dev/blackboxai-1755427024873) |
-| [booking-jules](https://github.com/vweb-dev/booking-jules) | [Source](https://github.com/vweb-dev/booking-jules) |
-| [canada-csr-calculator](https://github.com/vweb-dev/canada-csr-calculator) | [Source](https://github.com/vweb-dev/canada-csr-calculator) |
-| [CanPak-web-app](https://github.com/vweb-dev/CanPak-web-app) | [Source](https://github.com/vweb-dev/CanPak-web-app) |
-| [connect.vweb.dev](https://github.com/vweb-dev/connect.vweb.dev) | [Source](https://github.com/vweb-dev/connect.vweb.dev) |
-| [daraz-calculator](https://github.com/vweb-dev/daraz-calculator) | [Source](https://github.com/vweb-dev/daraz-calculator) |
-| [envato-elements-downloader](https://github.com/vweb-dev/envato-elements-downloader) | [Source](https://github.com/vweb-dev/envato-elements-downloader) |
-| [Filee](https://github.com/vweb-dev/Filee) | [Source](https://github.com/vweb-dev/Filee) |
-| [folting-filter-menu](https://github.com/vweb-dev/folting-filter-menu) | [Source](https://github.com/vweb-dev/folting-filter-menu) |
-| [Interface-Front](https://github.com/vweb-dev/Interface-Front) | [Source](https://github.com/vweb-dev/Interface-Front) |
-| [luxury-talent-booking-rce](https://github.com/vweb-dev/luxury-talent-booking-rce) | [Source](https://github.com/vweb-dev/luxury-talent-booking-rce) |
-| [Microsoft-Activation-Scripts](https://github.com/vweb-dev/Microsoft-Activation-Scripts) | [Source](https://github.com/vweb-dev/Microsoft-Activation-Scripts) |
-| [motion-design-skill](https://github.com/vweb-dev/motion-design-skill) | [Source](https://github.com/vweb-dev/motion-design-skill) |
-| [o2-clone](https://github.com/vweb-dev/o2-clone) | [Source](https://github.com/vweb-dev/o2-clone) |
-| [Open-Typer](https://github.com/vweb-dev/Open-Typer) | [Source](https://github.com/vweb-dev/Open-Typer) |
-| [OpenBoard](https://github.com/vweb-dev/OpenBoard) | [Source](https://github.com/vweb-dev/OpenBoard) |
-| [PCMEA-Connect](https://github.com/vweb-dev/PCMEA-Connect) | [Source](https://github.com/vweb-dev/PCMEA-Connect) |
-| [POD-WP](https://github.com/vweb-dev/POD-WP) | [Source](https://github.com/vweb-dev/POD-WP) |
-| [rdp-wrapper-library](https://github.com/vweb-dev/rdp-wrapper-library) | [Source](https://github.com/vweb-dev/rdp-wrapper-library) |
-| [rdpwrap](https://github.com/vweb-dev/rdpwrap) | [Source](https://github.com/vweb-dev/rdpwrap) |
-| [shopify-app](https://github.com/vweb-dev/shopify-app) | [Source](https://github.com/vweb-dev/shopify-app) |
-| [studyapp](https://github.com/vweb-dev/studyapp) | [Source](https://github.com/vweb-dev/studyapp) |
-| [swarm-cursors](https://github.com/vweb-dev/swarm-cursors) | [Source](https://github.com/vweb-dev/swarm-cursors) |
-| [taskreminder](https://github.com/vweb-dev/taskreminder) | [Source](https://github.com/vweb-dev/taskreminder) |
-| [vapsstore](https://github.com/vweb-dev/vapsstore) | [Source](https://github.com/vweb-dev/vapsstore) |
-| [yasser.ai-](https://github.com/vweb-dev/yasser.ai-) | [Source](https://github.com/vweb-dev/yasser.ai-) |
+| [booking-jules ](https://github.com/vweb-dev/booking-jules) | PHP |
+| [connect.vweb.dev ](https://github.com/vweb-dev/connect.vweb.dev) | JavaScript |
+| [luxury-talent-booking-rce ](https://github.com/vweb-dev/luxury-talent-booking-rce) | PHP |
 
+### Applications & Websites
+
+| Repository | GitHub language |
+|---|---|
+| [blackboxai-1755427024873 ](https://github.com/vweb-dev/blackboxai-1755427024873) | Unclassified |
+| [CanPak-web-app ](https://github.com/vweb-dev/CanPak-web-app) | PowerShell |
+| [folting-filter-menu ](https://github.com/vweb-dev/folting-filter-menu) | Unclassified |
+| [Interface-Front ](https://github.com/vweb-dev/Interface-Front) | Unclassified |
+| [o2-clone ](https://github.com/vweb-dev/o2-clone) | HTML |
+| [PCMEA-Connect ](https://github.com/vweb-dev/PCMEA-Connect) | TypeScript |
+| [POD-WP ](https://github.com/vweb-dev/POD-WP) | Unclassified |
+| [studyapp ](https://github.com/vweb-dev/studyapp) | Unclassified |
+| [yasser.ai- ](https://github.com/vweb-dev/yasser.ai-) | Unclassified |
+
+### Utilities & Tools
+
+| Repository | GitHub language |
+|---|---|
+| [canada-csr-calculator ](https://github.com/vweb-dev/canada-csr-calculator) | JavaScript |
+| [daraz-calculator ](https://github.com/vweb-dev/daraz-calculator) | JavaScript |
+| [rdp-wrapper-library ](https://github.com/vweb-dev/rdp-wrapper-library) | Python |
+| [rdpwrap ](https://github.com/vweb-dev/rdpwrap) | Pascal |
+
+### Community & Upstream
+
+| Repository | GitHub language |
+|---|---|
+| [api-anything ](https://github.com/vweb-dev/api-anything) | Unclassified |
+| [envato-elements-downloader ](https://github.com/vweb-dev/envato-elements-downloader) | Unclassified |
+| [Filee ](https://github.com/vweb-dev/Filee) | Unclassified |
+| [Microsoft-Activation-Scripts ](https://github.com/vweb-dev/Microsoft-Activation-Scripts) | Batchfile |
+| [motion-design-skill ](https://github.com/vweb-dev/motion-design-skill) | Unclassified |
+| [Open-Typer ](https://github.com/vweb-dev/Open-Typer) | Unclassified |
+| [OpenBoard ](https://github.com/vweb-dev/OpenBoard) | Unclassified |
+| [shopify-app ](https://github.com/vweb-dev/shopify-app) | Unclassified |
+| [swarm-cursors ](https://github.com/vweb-dev/swarm-cursors) | Unclassified |
+| [taskreminder ](https://github.com/vweb-dev/taskreminder) | Unclassified |
+| [vapsstore ](https://github.com/vweb-dev/vapsstore) | Unclassified |
+
+<sub>Only public metadata is used. Directory refresh is scheduled; empty, template and upstream repositories are not necessarily completed VWEB.DEV products.</sub>
 <!-- VWEB:PUBLIC-REPOS:END -->
 
 <img src="assets/heading-connect.svg" width="100%" alt="Start a conversation" />
