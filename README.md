@@ -109,7 +109,7 @@
 <!-- VWEB:PUBLIC-REPOS:START -->
 ## Public project directory
 
-**27 public project repositories**, automatically synced from GitHub. Private work remains private.
+**26 public project repositories**, automatically synced from GitHub. Private work remains private.
 
 ### PHP / Laravel
 
@@ -126,8 +126,7 @@
 | [blackboxai-1755427024873 ](https://github.com/vweb-dev/blackboxai-1755427024873) | Unclassified |
 | [CanPak-web-app ](https://github.com/vweb-dev/CanPak-web-app) | PowerShell |
 | [folting-filter-menu ](https://github.com/vweb-dev/folting-filter-menu) | Unclassified |
-| [Interface-Front ](https://github.com/vweb-dev/Interface-Front) | Unclassified |
-| [o2-clone ](https://github.com/vweb-dev/o2-clone) | HTML |
+| [Interface-Front ](https://github.com/vweb-dev/Interface-Front) | JavaScript |
 | [PCMEA-Connect ](https://github.com/vweb-dev/PCMEA-Connect) | TypeScript |
 | [POD-WP ](https://github.com/vweb-dev/POD-WP) | Unclassified |
 | [studyapp ](https://github.com/vweb-dev/studyapp) | Unclassified |
@@ -155,7 +154,7 @@
 | [OpenBoard ](https://github.com/vweb-dev/OpenBoard) | Unclassified |
 | [shopify-app ](https://github.com/vweb-dev/shopify-app) | Unclassified |
 | [swarm-cursors ](https://github.com/vweb-dev/swarm-cursors) | Unclassified |
-| [taskreminder ](https://github.com/vweb-dev/taskreminder) | Unclassified |
+| [taskreminder ](https://github.com/vweb-dev/taskreminder) | PHP |
 | [vapsstore ](https://github.com/vweb-dev/vapsstore) | Unclassified |
 
 <sub>Only public metadata is used. Directory refresh is scheduled; empty, template and upstream repositories are not necessarily completed VWEB.DEV products.</sub>
