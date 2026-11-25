@@ -109,7 +109,7 @@
 <!-- VWEB:PUBLIC-REPOS:START -->
 ## Public project directory
 
-**26 public project repositories**, automatically synced from GitHub. Private work remains private.
+**28 public project repositories**, automatically synced from GitHub. Private work remains private.
 
 ### PHP / Laravel
 
@@ -152,7 +152,9 @@
 | [motion-design-skill ](https://github.com/vweb-dev/motion-design-skill) | Unclassified |
 | [Open-Typer ](https://github.com/vweb-dev/Open-Typer) | Unclassified |
 | [OpenBoard ](https://github.com/vweb-dev/OpenBoard) | Unclassified |
+| [reanimate ](https://github.com/vweb-dev/reanimate) | Unclassified |
 | [shopify-app ](https://github.com/vweb-dev/shopify-app) | Unclassified |
+| [socium ](https://github.com/vweb-dev/socium) | Unclassified |
 | [swarm-cursors ](https://github.com/vweb-dev/swarm-cursors) | Unclassified |
 | [taskreminder ](https://github.com/vweb-dev/taskreminder) | PHP |
 | [vapsstore ](https://github.com/vweb-dev/vapsstore) | Unclassified |
