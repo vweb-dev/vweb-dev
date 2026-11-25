@@ -109,7 +109,7 @@
 <!-- VWEB:PUBLIC-REPOS:START -->
 ## Public project directory
 
-**28 public project repositories**, automatically synced from GitHub. Private work remains private.
+**26 public project repositories**, automatically synced from GitHub. Private work remains private.
 
 ### PHP / Laravel
 
@@ -123,7 +123,6 @@
 
 | Repository | GitHub language |
 |---|---|
-| [blackboxai-1755427024873 ](https://github.com/vweb-dev/blackboxai-1755427024873) | Unclassified |
 | [CanPak-web-app ](https://github.com/vweb-dev/CanPak-web-app) | PowerShell |
 | [folting-filter-menu ](https://github.com/vweb-dev/folting-filter-menu) | Unclassified |
 | [Interface-Front ](https://github.com/vweb-dev/Interface-Front) | JavaScript |
@@ -136,7 +135,6 @@
 
 | Repository | GitHub language |
 |---|---|
-| [canada-csr-calculator ](https://github.com/vweb-dev/canada-csr-calculator) | JavaScript |
 | [daraz-calculator ](https://github.com/vweb-dev/daraz-calculator) | JavaScript |
 | [rdp-wrapper-library ](https://github.com/vweb-dev/rdp-wrapper-library) | Python |
 | [rdpwrap ](https://github.com/vweb-dev/rdpwrap) | Pascal |
